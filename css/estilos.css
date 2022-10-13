@@ -54,7 +54,8 @@ nav a {
 
 /* Regra de acionamento do link */
 nav a:hover, nav a:focus {
-    background-color: gray;
+    background-color: black;
+    color: white;
 }
 
 /* Regra de conteúdo (articles) */
